@@ -1,1 +1,0 @@
-<footer> &copy; Copyright 2016, Ashtyne Madsen &amp; Kyann Brown </footer>

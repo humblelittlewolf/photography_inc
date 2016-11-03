@@ -36,6 +36,7 @@
     </head>
     
     <body>
+
         <?php include '../resources/navigation.php'; ?>
         
         <h1 class="below_menu_container" style="text-align:center;font-size: 72px;font-family:Gadugi, sans-serif; width: 635px; ">Photography Inc.</h1>
