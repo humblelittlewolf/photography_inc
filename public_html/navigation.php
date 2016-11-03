@@ -1,7 +1,4 @@
 <header>
-
-    <img class="image" src="img/MadsenBrown_header.jpg" alt="Madsen-Brown Header" width="100%" />
-
   <nav class="navbar navbar-default navbar-fixed-top">
         <div class="container-fluid">
             <div class="navbar-header">
